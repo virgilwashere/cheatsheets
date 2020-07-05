@@ -33,7 +33,6 @@
 <url><loc>https://devhints.io/deprecated/bower-api</loc></url>
 <url><loc>https://devhints.io/browser-sync</loc></url>
 <url><loc>https://devhints.io/browserify</loc></url>
-<url><loc>https://devhints.io/brunch</loc></url>
 <url><loc>https://devhints.io/bulma</loc></url>
 <url><loc>https://devhints.io/bundler</loc></url>
 <url><loc>https://devhints.io/c_preprocessor</loc></url>
@@ -74,7 +73,6 @@
 <url><loc>https://devhints.io/dockerfile</loc></url>
 <url><loc>https://devhints.io/dom-range</loc></url>
 <url><loc>https://devhints.io/dom-selection</loc></url>
-<url><loc>https://devhints.io/ec2</loc></url>
 <url><loc>https://devhints.io/editorconfig</loc></url>
 <url><loc>https://devhints.io/elixir-metaprogramming</loc></url>
 <url><loc>https://devhints.io/elixir</loc></url>
@@ -111,7 +109,6 @@
 <url><loc>https://devhints.io/git-log</loc></url>
 <url><loc>https://devhints.io/git-revisions</loc></url>
 <url><loc>https://devhints.io/git-tricks</loc></url>
-<url><loc>https://devhints.io/gmail</loc></url>
 <url><loc>https://devhints.io/gnupg</loc></url>
 <url><loc>https://devhints.io/go</loc></url>
 <url><loc>https://devhints.io/goby</loc></url>
@@ -196,7 +193,6 @@
 <url><loc>https://devhints.io/modella</loc></url>
 <url><loc>https://devhints.io/modernizr</loc></url>
 <url><loc>https://devhints.io/moment</loc></url>
-<url><loc>https://devhints.io/mongodb</loc></url>
 <url><loc>https://devhints.io/mysql</loc></url>
 <url><loc>https://devhints.io/ncftp</loc></url>
 <url><loc>https://devhints.io/nock</loc></url>
@@ -247,7 +243,6 @@
 <url><loc>https://devhints.io/rack-test</loc></url>
 <url><loc>https://devhints.io/ractive</loc></url>
 <url><loc>https://devhints.io/rails-controllers</loc></url>
-<url><loc>https://devhints.io/rails-features</loc></url>
 <url><loc>https://devhints.io/rails-forms</loc></url>
 <url><loc>https://devhints.io/rails-helpers</loc></url>
 <url><loc>https://devhints.io/rails-i18n</loc></url>
@@ -276,7 +271,6 @@
 <url><loc>https://devhints.io/rst</loc></url>
 <url><loc>https://devhints.io/rsync</loc></url>
 <url><loc>https://devhints.io/rtorrent</loc></url>
-<url><loc>https://devhints.io/rubiks</loc></url>
 <url><loc>https://devhints.io/ruby</loc></url>
 <url><loc>https://devhints.io/ruby21</loc></url>
 <url><loc>https://devhints.io/rubygems</loc></url>
@@ -313,7 +307,6 @@
 <url><loc>https://devhints.io/tmux</loc></url>
 <url><loc>https://devhints.io/tomdoc</loc></url>
 <url><loc>https://devhints.io/top</loc></url>
-<url><loc>https://devhints.io/travis-gh-pages</loc></url>
 <url><loc>https://devhints.io/travis</loc></url>
 <url><loc>https://devhints.io/typescript</loc></url>
 <url><loc>https://devhints.io/ubuntu</loc></url>
