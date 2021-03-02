@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
-    "@babel/preset-env": "^7.10.2",
+    "@babel/preset-env": "^7.13.9",
     "@rstacruz/prettier-plugin-markdown-code-fences": "^1.0.0",
     "jest": "26.0.1",
     "jest-html": "1.5.0",
